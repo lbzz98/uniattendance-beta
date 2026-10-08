@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.2.0-beta.1",
-  "build": 27,
+  "version": "2.2.2-beta.1",
+  "build": 29,
   "published": "2026-10-08",
   "notes": {
-    "it": "Licenza offline personale per Mac, attivazione obbligatoria, scadenza visibile e rinnovo. Aggiornamenti dal nuovo canale pubblico, controllati all’avvio e ogni ora con avviso nell’app. Solo macOS.",
-    "en": "Device-bound offline licenses, mandatory activation, visible expiry and renewal. Updates use the new public channel and are checked at startup and hourly with an in-app notice. macOS only."
+    "it": "Materiali online uniformati alla biblioteca offline: caratteri, rientri, nomi cliccabili e hover. Internal Medicine: 4 CFU/40 ore dal piano di studi, Geriatrics 3 CFU/30 ore e Rehabilitation 1 CFU/10 ore; syllabus PDF ancora in attesa. Solo macOS.",
+    "en": "Online materials now match the offline library typography, indentation, clickable names and hover. Internal Medicine uses the study plan: 4 ECTS/40 hours total, Geriatrics 3/30 and Rehabilitation 1/10; syllabus PDF pending. macOS only."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.0-beta.1/UniAttendance-2.2.0-macOS-universal.zip",
-      "filename": "UniAttendance-2.2.0-macOS-universal.zip",
-      "sha256": "3cf8816101260a27b9d974dafbc1d41281009695690e9336ed8ed8507d052edd",
-      "bytes": 3566042
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.2-beta.1/UniAttendance-2.2.2-macOS-universal.zip",
+      "filename": "UniAttendance-2.2.2-macOS-universal.zip",
+      "sha256": "a28089065ac6477fc529cb4f7ee26932ffd049349803298fdab64ae95de03b54",
+      "bytes": 3567440
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.0-beta.1/UniAttendance-2.2.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.2.0-beta.1-macOS-universal.zip",
-      "sha256": "28555ebc8604ce9336c73c4f9b63ceff0694a82603b18a31fe5b9baf3381bdea",
-      "bytes": 3566215
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.2-beta.1/UniAttendance-2.2.2-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.2.2-beta.1-macOS-universal.zip",
+      "sha256": "42c0e9a1fe3aa8c2bf2385f28cb4500133cf814e87fd933ee3d0bd821e9a42b8",
+      "bytes": 3567611
     }
   }
 }
