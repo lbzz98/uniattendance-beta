@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.2.6-beta.1",
-  "build": 33,
+  "version": "2.2.7-beta.1",
+  "build": 34,
   "published": "2026-10-09",
   "notes": {
-    "it": "Login WebApp: opzione per ricordare username e password nel Portachiavi del Mac, condivisa fra Materiali e Presenze WebApp. Salvataggio solo dopo accesso riuscito, compilazione automatica ai prossimi login e comando per dimenticare le credenziali. CAPTCHA sempre manuale. Solo macOS.",
-    "en": "WebApp sign-in: optional local Keychain storage for username and password, shared by Materials and WebApp attendance. Credentials are saved only after successful sign-in, autofilled on subsequent logins, and can be forgotten. CAPTCHA always remains manual. macOS only."
+    "it": "Presenze WebApp: rimossa l’etichetta Lingua/Language dal login. Resta il selettore Italiano/English. Solo macOS.",
+    "en": "WebApp attendance: removed the Language label from the sign-in screen, leaving only the Italiano/English segmented selector. macOS only."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.6-beta.1/UniAttendance-2.2.6-macOS-universal.zip",
-      "filename": "UniAttendance-2.2.6-macOS-universal.zip",
-      "sha256": "4ebe69f624401ce6a3eeaaf2d2b6721e3dbd153da82adea524ac85e2565fe890",
-      "bytes": 3625936
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.7-beta.1/UniAttendance-2.2.7-macOS-universal.zip",
+      "filename": "UniAttendance-2.2.7-macOS-universal.zip",
+      "sha256": "84ba5c95c708f6eaf7e066d4275de43d37ee8eac31b46ed9d82392ce46c9e7ea",
+      "bytes": 3625744
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.6-beta.1/UniAttendance-2.2.6-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.2.6-beta.1-macOS-universal.zip",
-      "sha256": "0f60049617be26e421d7faa7f98dc341dc6610c3509b3824672e549539008607",
-      "bytes": 3626126
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.7-beta.1/UniAttendance-2.2.7-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.2.7-beta.1-macOS-universal.zip",
+      "sha256": "99991d5bfbaea994bc55519a825d02bbf88ceeda833fa5385a26047a8644707d",
+      "bytes": 3625925
     }
   }
 }
