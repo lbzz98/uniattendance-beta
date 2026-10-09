@@ -4,7 +4,7 @@ Calendario universitario, syllabus, materiali e presenze UniCamillus in un’app
 
 ## Installazione su macOS
 
-1. Apri [l’ultima release](https://github.com/lbzz98/uniattendance-beta/releases) e, sotto **Assets**, scarica **UniAttendance-2.2.4-macOS-universal.zip**. Non scaricare i file “Source code”: non sono l’app.
+1. Apri [l’ultima release](https://github.com/lbzz98/uniattendance-beta/releases) e, sotto **Assets**, scarica **UniAttendance-2.2.5-macOS-universal.zip**. Non scaricare i file “Source code”: non sono l’app.
 2. Apri lo ZIP per estrarre **UniAttendance.app**.
 3. Trascina **UniAttendance.app** nella cartella **Applicazioni** del Mac. Se hai una copia precedente, chiudila prima di sostituirla.
 4. Apri UniAttendance da **Applicazioni**. Se macOS blocca l’apertura perché lo sviluppatore non è verificato, dopo questo primo tentativo vai in **Impostazioni di Sistema → Privacy e sicurezza**, trova l’avviso relativo a UniAttendance e premi **Apri comunque**, poi conferma. Questa beta non è notarizzata da Apple. [Istruzioni ufficiali Apple](https://support.apple.com/it-it/102445).
