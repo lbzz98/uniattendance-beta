@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.2.4-beta.1",
-  "build": 31,
-  "published": "2026-10-08",
+  "version": "2.2.5-beta.1",
+  "build": 32,
+  "published": "2026-10-09",
   "notes": {
-    "it": "Presenze e Presenze WebApp: unica icona refresh senza menu. Rilegge tutte le giornate del semestre già svolte, ricalcola le presenze e aggiorna il report selezionato. Indicatore di caricamento discreto. Rimossi WebApp e Retry dalla barra Presenze WebApp. Solo macOS.",
-    "en": "Attendance and WebApp attendance: one refresh icon without a menu. Re-reads completed semester days, recalculates attendance and refreshes the selected report. Compact loading indicator. Removed WebApp and Retry from the WebApp attendance toolbar. macOS only."
+    "it": "Presenze: sotto Perse sono visibili ore perse e percentuale sul totale del corso o sottocorso. Il valore compare anche passando il mouse sulla barra e nella descrizione accessibile. Solo macOS.",
+    "en": "Attendance: Missed shows missed hours and their share of total course or module hours. The value is also available by hovering over the progress bar and in its accessibility description. macOS only."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.4-beta.1/UniAttendance-2.2.4-macOS-universal.zip",
-      "filename": "UniAttendance-2.2.4-macOS-universal.zip",
-      "sha256": "e73ffb7768d9564b518ef60db31abbe7d3f58a6d1272951a810ab5f5ab8a9413",
-      "bytes": 3573468
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.5-beta.1/UniAttendance-2.2.5-macOS-universal.zip",
+      "filename": "UniAttendance-2.2.5-macOS-universal.zip",
+      "sha256": "92a03852f935d863f548e519f767d9b06f95a711b0b2895681cdf00317c16b16",
+      "bytes": 3576757
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.4-beta.1/UniAttendance-2.2.4-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.2.4-beta.1-macOS-universal.zip",
-      "sha256": "05e52e6cf0a857295f47149bd4bc84bc23fe8b7e073dc2c815c1171d1c70f0bf",
-      "bytes": 3573630
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.5-beta.1/UniAttendance-2.2.5-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.2.5-beta.1-macOS-universal.zip",
+      "sha256": "9919a2bb04b2c4705da5f1ee8bbf43a7f44926ba8090e5d75b21b34a67d90c2d",
+      "bytes": 3576916
     }
   }
 }
