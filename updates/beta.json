@@ -1,31 +1,31 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.3.1-beta.1",
-  "build": 36,
-  "published": "2026-10-19",
+  "version": "2.3.2-beta.1",
+  "build": 37,
+  "published": "2026-10-20",
   "notes": {
-    "it": "Nuova scelta del tema Sistema / Chiaro / Scuro nelle impostazioni Mac e Windows, salvata localmente. Su Windows i pulsanti del gruppo mostrano A / B senza testo tagliato.",
-    "en": "Choose System / Light / Dark in Mac and Windows settings; the preference is saved locally. Windows sidebar group buttons now show A / B without clipped labels."
+    "it": "Mac e Windows: temi Chiaro/Scuro, rimossa l’opzione Sistema. Windows: pulsante Disconnetti WebApp leggibile nel tema scuro, anche quando disabilitato.",
+    "en": "Mac and Windows: Light/Dark choices; System option removed. Windows: readable WebApp sign-out button in dark mode, including the disabled state."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.1-beta.1/UniAttendance-2.3.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.3.1-macOS-universal.zip",
-      "sha256": "8229f35346c4f5270856d43d46cfab09eeb5b697c43766fb306608ad00063bd8",
-      "bytes": 3698303
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.2-beta.1/UniAttendance-2.3.2-macOS-universal.zip",
+      "filename": "UniAttendance-2.3.2-macOS-universal.zip",
+      "sha256": "01aeb567ef06091155283620fa970cb2352fc285682d91491211ed0d0e4ec9fe",
+      "bytes": 3702297
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.1-beta.1/UniAttendance-2.3.1-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.3.1-beta.1-macOS-universal.zip",
-      "sha256": "7ccf2857620a72632fa38ce63ae7aef376643429a3607ba66294ce593475823b",
-      "bytes": 3698478
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.2-beta.1/UniAttendance-2.3.2-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.3.2-beta.1-macOS-universal.zip",
+      "sha256": "ff3726126e44c4c22ff108fc9eac5f12a53ead52520b376971bf71333cc7d5ad",
+      "bytes": 3702489
     },
     "windows": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.1-beta.1/UniAttendance-2.3.1-beta.1-windows-x64.zip",
-      "filename": "UniAttendance-2.3.1-beta.1-windows-x64.zip",
-      "sha256": "6d992d8e5acf5f9770cc63398ec7e4acd00c1845dd49209c15e7021ab291295f",
-      "bytes": 51707831
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.2-beta.1/UniAttendance-2.3.2-beta.1-windows-x64.zip",
+      "filename": "UniAttendance-2.3.2-beta.1-windows-x64.zip",
+      "sha256": "c31616b5409c4fe74d05603c0fe754478946216cab79d81cc256b48721e66df5",
+      "bytes": 51707682
     }
   }
 }
