@@ -1,25 +1,31 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.2.7-beta.1",
-  "build": 34,
-  "published": "2026-10-09",
+  "version": "2.3.0-beta.1",
+  "build": 35,
+  "published": "2026-10-19",
   "notes": {
-    "it": "Presenze WebApp: rimossa l’etichetta Lingua/Language dal login. Resta il selettore Italiano/English. Solo macOS.",
-    "en": "WebApp attendance: removed the Language label from the sign-in screen, leaving only the Italiano/English segmented selector. macOS only."
+    "it": "Avvisi UNI USCITA/UNI ENTRATA mancanti nelle giornate passate, dentro Presenze da verificare; oggi escluso. Versione Windows riallineata: licenza, feed pubblico e aggiornamenti automatici, credenziali protette, ricerca aule, materiali e statistiche. Beta Windows da collaudare su PC.",
+    "en": "Missing UNI USCITA/UNI ENTRATA warnings for past days under Attendance to verify; today excluded. Windows brought forward: licensing, public update feed and automatic updates, secure credentials, room search, materials and statistics. Windows beta requires PC acceptance testing."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.7-beta.1/UniAttendance-2.2.7-macOS-universal.zip",
-      "filename": "UniAttendance-2.2.7-macOS-universal.zip",
-      "sha256": "84ba5c95c708f6eaf7e066d4275de43d37ee8eac31b46ed9d82392ce46c9e7ea",
-      "bytes": 3625744
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.0-beta.1/UniAttendance-2.3.0-macOS-universal.zip",
+      "filename": "UniAttendance-2.3.0-macOS-universal.zip",
+      "sha256": "2a82ce35a5731c29375e1fb1a676f03a060fa885841a9a63465a75de4fc9190d",
+      "bytes": 3673798
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.2.7-beta.1/UniAttendance-2.2.7-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.2.7-beta.1-macOS-universal.zip",
-      "sha256": "99991d5bfbaea994bc55519a825d02bbf88ceeda833fa5385a26047a8644707d",
-      "bytes": 3625925
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.0-beta.1/UniAttendance-2.3.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.3.0-beta.1-macOS-universal.zip",
+      "sha256": "9b82b659c6c40f475de3771c879845b2fbbcafa6e7546d0db99a6bed3d368689",
+      "bytes": 3673975
+    },
+    "windows": {
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.0-beta.1/UniAttendance-2.3.0-beta.1-windows-x64.zip",
+      "filename": "UniAttendance-2.3.0-beta.1-windows-x64.zip",
+      "sha256": "48e14341b8e7addda545497d6d780344898354bb709930e9fa7e183b4672a456",
+      "bytes": 51724453
     }
   }
 }
