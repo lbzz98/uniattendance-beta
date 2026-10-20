@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.6.0-beta.1",
-  "build": 45,
+  "version": "3.0.0-beta.1",
+  "build": 46,
   "published": "2026-10-20",
   "notes": {
-    "en": "Mac: live download progress, material format icons, and cross-group classroom/lecturer conflicts.",
-    "it": "Mac: avanzamento reale dei download, icone dei formati e anomalie aula/docente tra gruppi A e B."
+    "it": "Mac: tutti i sei anni di Medicina in inglese a Roma, coorti corrette, scelta anno/gruppo e dati separati; syllabus confrontati in italiano e inglese.",
+    "en": "Mac: all six Rome English Medicine study years, correct enrolment cohorts, year/group selection and separate calendars; English/Italian syllabus checks."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.6.0-beta.1/UniAttendance-2.6.0-macOS-universal.zip",
-      "filename": "UniAttendance-2.6.0-macOS-universal.zip",
-      "sha256": "3a7b3b678cfb96d1979274cc92db02d4fc86892b5e24486ad8dac14ff8ffbd6c",
-      "bytes": 4715567
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.0-beta.1/UniAttendance-3.0.0-macOS-universal.zip",
+      "filename": "UniAttendance-3.0.0-macOS-universal.zip",
+      "sha256": "3bbe524649cc56d81e53131009de06c301462b276675b24036ae35bbaa6967ff",
+      "bytes": 11261358
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.6.0-beta.1/UniAttendance-2.6.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.6.0-beta.1-macOS-universal.zip",
-      "sha256": "3cda303adcbc8a100d86012a559a3a59a022b2a4174f570567a352ebf8628502",
-      "bytes": 4715742
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.0-beta.1/UniAttendance-3.0.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.0.0-beta.1-macOS-universal.zip",
+      "sha256": "03b35d1c40b2809a88ac0d134f69c37a698814dcd4e22ef3f6f3651b22ad8b3a",
+      "bytes": 11261937
     }
   }
 }
