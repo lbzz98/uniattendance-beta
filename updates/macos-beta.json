@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "channel": "beta",
+  "version": "2.4.0-beta.1",
+  "build": 42,
+  "published": "2026-10-20",
+  "notes": {
+    "en": "Mac: integrated PowerPoint preview, local Keynote/PDF preparation, per-slide autosaved notes and side-by-side PDF export.",
+    "it": "Mac: anteprima PowerPoint, preparazione locale con Keynote/PDF, appunti per slide con salvataggio automatico ed esportazione PDF affiancata."
+  },
+  "downloads": {
+    "macos": {
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.4.0-beta.1/UniAttendance-2.4.0-macOS-universal.zip",
+      "filename": "UniAttendance-2.4.0-macOS-universal.zip",
+      "sha256": "cc626f0101301abda4034477f090afd17b62f3c94589b654a41bd12e178c4be7",
+      "bytes": 4606308
+    },
+    "macos-beta": {
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.4.0-beta.1/UniAttendance-2.4.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.4.0-beta.1-macOS-universal.zip",
+      "sha256": "2998cdd42b3f69a77d36a89483d10297dfa50cf20bddddeb9130d83daa8a6c77",
+      "bytes": 4606491
+    }
+  }
+}
