@@ -1,10 +1,10 @@
 # UniAttendance — beta macOS e Windows
 
-Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 2.5.0 beta; Windows: 2.3.6 beta**. Serve una licenza per il proprio dispositivo, rilasciata dall’organizzatore della beta.
+Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 2.6.0 beta; Windows: 2.3.6 beta**. Serve una licenza per il proprio dispositivo, rilasciata dall’organizzatore della beta.
 
 ## Installazione macOS
 
-1. Apri [le release](https://github.com/lbzz98/uniattendance-beta/releases) e scarica **UniAttendance-2.5.0-macOS-universal.zip** dagli Assets. Per l’edizione UniAttendance Beta scarica **UniAttendance-2.5.0-beta.1-macOS-universal.zip**. Non scaricare Source code.
+1. Apri [le release](https://github.com/lbzz98/uniattendance-beta/releases) e scarica **UniAttendance-2.6.0-macOS-universal.zip** dagli Assets. Per l’edizione UniAttendance Beta scarica **UniAttendance-2.6.0-beta.1-macOS-universal.zip**. Non scaricare Source code.
 2. Chiudi la copia precedente, estrai lo ZIP e trascina l’app in **Applicazioni**, sostituendo la stessa edizione. Mantieni la stessa edizione per usare il medesimo archivio locale.
 3. Apri da Applicazioni. Se macOS blocca questa beta non notarizzata, dopo il primo tentativo vai in **Impostazioni di Sistema → Privacy e sicurezza → Apri comunque** e conferma. Consenti solo la copia scaricata da questo repository. [Istruzioni Apple](https://support.apple.com/it-it/102445).
 4. Al primo avvio premi **Copia richiesta di attivazione** e inviala all’organizzatore. Non servono password o credenziali UniCamillus per la licenza.
@@ -26,7 +26,17 @@ Target: **Windows 11 x64**, beta non firmata Authenticode. **Il collaudo dell’
 
 ## Colori dei Materiali
 
-I nomi dei corsi e sottocorsi nei menu online e offline riprendono i colori del calendario. Su Mac gli alias dei syllabus vengono collegati al nome completo della lezione; su Windows vengono usate le famiglie viola/blu/verde del calendario, con testi adatti a Chiaro/Scuro. I docenti e le categorie generiche mantengono colori neutri. Anche iPhone/iPad 0.2.10 dispone già dei nomi colorati.
+I nomi dei corsi e sottocorsi nei menu online e offline riprendono i colori del calendario. Su Mac gli alias dei syllabus vengono collegati al nome completo della lezione; su Windows vengono usate le famiglie viola/blu/verde del calendario, con testi adatti a Chiaro/Scuro. I docenti e le categorie generiche mantengono colori neutri. Anche iPhone/iPad 0.3.0 dispone già dei nomi colorati.
+
+## Novità Mac 2.6.0 e iPhone/iPad 0.3.0
+
+- Download dei materiali con barra e percentuale aggiornate dai byte ricevuti, su Mac e iOS. Se il server non comunica il totale, sono visibili i dati scaricati e un indicatore di attività. Anche gli aggiornamenti Mac mostrano l’avanzamento prima di verifica, installazione e riavvio automatici.
+- Materiali Mac online e offline con etichette e icone PDF/PPT/PPTX nello stesso stile iOS.
+- Anomalie Mac e iOS: conflitti tra A e B quando due lezioni sovrapposte usano la stessa aula o lo stesso docente. Sono mostrati entrambi i gruppi e l’intervallo effettivo; le lezioni consecutive non sono un conflitto.
+- iOS: la ricerca mostra ✓ verde, orologio arancione o × rossa solo sulle lezioni concluse con presenza calcolata e con «Solo prossime lezioni» disattivato. Le presenze sconosciute non vengono considerate assenze.
+- iOS: cronologia filtrabile per Gruppo A, Gruppo B o Tutti, con gruppo visibile in ciascuna modifica; un cambio di gruppo compare in entrambi i filtri.
+
+**English:** live material download progress on Mac/iOS, Mac update download percentage, consistent file-format icons, and cross-group room/lecturer conflict warnings. Unknown-length transfers show bytes received. iOS search adds attendance indicators only for completed lessons with known attendance; history supports A/B/All filtering with explicit group labels. Windows remains unchanged.
 
 ## Slide e appunti su Mac
 
@@ -42,7 +52,7 @@ I download e gli appunti sono organizzati in **Courses → corso → sottocorso 
 
 Il pulsante **Sposta nel Cestino** della biblioteca offline richiede conferma e usa il Cestino di macOS/Windows. Il file non viene eliminato definitivamente né reimportato al riavvio. I risultati online indicano il formato **PDF / PPT / PPTX** prima del download. La voce di tutti i docenti viene tradotta in **Tutti / All** in base alla lingua scelta.
 
-Nella beta personale iPhone/iPad **0.2.10**, il documento viene spostato negli **Eliminati di recente** dell’app ed è ripristinabile dal pulsante Cestino della biblioteca. Online sono disponibili conteggio risultati e campo di ricerca accessibile con la tastiera anche a pagina tutta in alto.
+Nella beta personale iPhone/iPad **0.3.0**, il documento viene spostato negli **Eliminati di recente** dell’app ed è ripristinabile dal pulsante Cestino della biblioteca. Online sono disponibili conteggio risultati e campo di ricerca accessibile con la tastiera anche a pagina tutta in alto.
 
 ## Syllabus aggiornati e sessione WebApp
 
@@ -62,13 +72,13 @@ In **Presenze da verificare** compaiono le giornate passate con UNI USCITA o UNI
 
 Official syllabi are checked on launch and hourly while running, with validated offline copies. Supported integrated-course PDFs update module credits, faculty, emails and sections in the document’s original language. Internal Medicine faculty are mapped to Materials; Allergology–Immunology is **1 ECTS / 10 hours**. Unknown formats remain accessible as the original PDF. Sign-out ignores stale session reads and opens a fresh login after cookie cleanup. Syllabus bullets and paragraphs are formatted for readability without dropping source text.
 
-Offline documents can be moved to the system Trash/Recycle Bin after confirmation. Online results show PDF/PPT/PPTX file-format badges, and the lecturer selector uses the selected app language for All/Tutti. Personal iOS 0.2.10 uses an in-app Recently Deleted library with Restore; online document counts and the search-field keyboard fix are included.
+Offline documents can be moved to the system Trash/Recycle Bin after confirmation. Online results show PDF/PPT/PPTX file-format badges, and the lecturer selector uses the selected app language for All/Tutti. Personal iOS 0.3.0 uses an in-app Recently Deleted library with Restore; online document counts and the search-field keyboard fix are included.
 
-Course and module names use calendar-related colors in online and offline Materials. macOS resolves syllabus aliases to the exact calendar lesson name; Windows uses its existing purple/blue/green calendar families with Light/Dark text contrast. Lecturer names and general categories stay neutral. Personal iOS 0.2.10 already includes colored names.
+Course and module names use calendar-related colors in online and offline Materials. macOS resolves syllabus aliases to the exact calendar lesson name; Windows uses its existing purple/blue/green calendar families with Light/Dark text contrast. Lecturer names and general categories stay neutral. Personal iOS 0.3.0 already includes colored names.
 
 ## English — installation
 
-1. Open [Releases](https://github.com/lbzz98/uniattendance-beta/releases). On Mac download **UniAttendance-2.5.0-macOS-universal.zip**, or the macOS ZIP with beta.1 for the UniAttendance Beta edition. On Windows download **UniAttendance-2.3.6-beta.1-windows-x64.zip**. Do not download Source code.
+1. Open [Releases](https://github.com/lbzz98/uniattendance-beta/releases). On Mac download **UniAttendance-2.6.0-macOS-universal.zip**, or the macOS ZIP with beta.1 for the UniAttendance Beta edition. On Windows download **UniAttendance-2.3.6-beta.1-windows-x64.zip**. Do not download Source code.
 2. **macOS:** quit the old copy, extract the ZIP and move the app to **Applications**, replacing the same edition. If blocked, first attempt to open it, then use **System Settings → Privacy & Security → Open Anyway** and confirm. Only allow the copy from this repository. [Apple instructions](https://support.apple.com/en-us/102445).
 3. **Windows:** extract all files to a writable folder and run UniAttendance.exe. .NET is bundled; install Microsoft's WebView2 Runtime using the in-app official link if required.
 4. Copy your activation request, send it to the organizer and import the .ualicense file you receive. Licenses are bound to the device and installation. Mac and Windows licenses are separate; existing valid Mac licenses survive updating.
@@ -78,6 +88,6 @@ Course and module names use calendar-related colors in online and offline Materi
 
 Choose **Light / Dark** under **Settings → Appearance**; your choice is saved locally and applied immediately, including the embedded portal login. Windows group buttons display **A / B**. The WebApp sign-out button keeps readable text in dark mode, including its disabled state.
 
-macOS 14+ Universal; Windows 11 x64. **Windows UI, real login, credential storage and self-update acceptance tests still need a Windows PC.** The personal **iPhone/iPad 0.2.10** beta installs through Xcode/Personal Team, not these desktop ZIPs.
+macOS 14+ Universal; Windows 11 x64. **Windows UI, real login, credential storage and self-update acceptance tests still need a Windows PC.** The personal **iPhone/iPad 0.3.0** beta installs through Xcode/Personal Team, not these desktop ZIPs.
 
 Alla scadenza l’accesso all’app viene bloccato, conservando i dati. Il repository contiene solo pacchetti protetti e feed: gestore licenze, chiave privata e dati personali non sono distribuiti. UniAttendance non è un prodotto ufficiale UniCamillus.
