@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.4.1-beta.1",
-  "build": 43,
+  "version": "2.5.0-beta.1",
+  "build": 44,
   "published": "2026-10-20",
   "notes": {
-    "en": "Mac: larger slide reader and prominent one-click PowerPoint-to-PDF conversion for notes.",
-    "it": "Mac: lettore slide più grande e pulsante diretto per convertire PowerPoint in PDF e prendere appunti."
+    "en": "Mac: PDF-only notes, read-only Office/Keynote previews, and course/module folders for downloads and notes.",
+    "it": "Mac: appunti solo sui PDF, anteprime Office/Keynote in sola lettura e cartelle corso/sottocorso per documenti e appunti."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.4.1-beta.1/UniAttendance-2.4.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.4.1-macOS-universal.zip",
-      "sha256": "ecd72f870d1db8e2422923cc306baf305bc7fdf003bf8fbde024e48b9dae14b9",
-      "bytes": 4626272
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.5.0-beta.1/UniAttendance-2.5.0-macOS-universal.zip",
+      "filename": "UniAttendance-2.5.0-macOS-universal.zip",
+      "sha256": "7509a08ac418cce82b25e76f98418340fc850b8c44d259137faa7b3bf727961d",
+      "bytes": 4595694
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.4.1-beta.1/UniAttendance-2.4.1-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.4.1-beta.1-macOS-universal.zip",
-      "sha256": "9062f14e00be408ef2d8a3ef940e5260cfa2b3d9ce29e5f2dfd0f624f80ce15b",
-      "bytes": 4626465
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.5.0-beta.1/UniAttendance-2.5.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.5.0-beta.1-macOS-universal.zip",
+      "sha256": "5b9555cd0a071e4c380ec5b1904abf2e98f56ca1f1b11b930e14992c9a24d62c",
+      "bytes": 4595885
     }
   }
 }
