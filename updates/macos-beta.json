@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.5.0-beta.1",
-  "build": 44,
+  "version": "2.6.0-beta.1",
+  "build": 45,
   "published": "2026-10-20",
   "notes": {
-    "en": "Mac: PDF-only notes, read-only Office/Keynote previews, and course/module folders for downloads and notes.",
-    "it": "Mac: appunti solo sui PDF, anteprime Office/Keynote in sola lettura e cartelle corso/sottocorso per documenti e appunti."
+    "en": "Mac: live download progress, material format icons, and cross-group classroom/lecturer conflicts.",
+    "it": "Mac: avanzamento reale dei download, icone dei formati e anomalie aula/docente tra gruppi A e B."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.5.0-beta.1/UniAttendance-2.5.0-macOS-universal.zip",
-      "filename": "UniAttendance-2.5.0-macOS-universal.zip",
-      "sha256": "7509a08ac418cce82b25e76f98418340fc850b8c44d259137faa7b3bf727961d",
-      "bytes": 4595694
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.6.0-beta.1/UniAttendance-2.6.0-macOS-universal.zip",
+      "filename": "UniAttendance-2.6.0-macOS-universal.zip",
+      "sha256": "3a7b3b678cfb96d1979274cc92db02d4fc86892b5e24486ad8dac14ff8ffbd6c",
+      "bytes": 4715567
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.5.0-beta.1/UniAttendance-2.5.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.5.0-beta.1-macOS-universal.zip",
-      "sha256": "5b9555cd0a071e4c380ec5b1904abf2e98f56ca1f1b11b930e14992c9a24d62c",
-      "bytes": 4595885
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.6.0-beta.1/UniAttendance-2.6.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.6.0-beta.1-macOS-universal.zip",
+      "sha256": "3cda303adcbc8a100d86012a559a3a59a022b2a4174f570567a352ebf8628502",
+      "bytes": 4715742
     }
   }
 }
