@@ -1,15 +1,25 @@
 # UniAttendance — beta macOS e Windows
 
-Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 2.6.0 beta; Windows: 2.3.6 beta**. Serve una licenza per il proprio dispositivo, rilasciata dall’organizzatore della beta.
+Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 3.0.0 beta; Windows: 2.3.6 beta**. Serve una licenza per il proprio dispositivo, rilasciata dall’organizzatore della beta.
+
+## Novità Mac 3.0.0 e iPhone/iPad 0.4.0
+
+- Tutti i sei anni di **Medicine and Surgery in inglese a Roma, 2026/27**. La coorte segue l’anno di immatricolazione: 2026/27 per il primo anno, fino a 2021/22 per il sesto.
+- Al primo avvio scegli anno e poi gruppo; puoi cambiarli nelle impostazioni. Terzo anno: gruppo unico. Altri anni: A/B.
+- Calendari, cronologie e anomalie separati per anno; dati precedenti del quarto anno conservati. Materiali Online offre il filtro del tuo anno.
+- **19 syllabus ufficiali offline**, controllati nelle pagine italiana e inglese della coorte corretta. Scientific English: 6 CFU dal PDF italiano coerente con 2+3+1; Laboratory Medicine conserva l’anomalia ufficiale 7 contro 8. Neurological Sciences attende il PDF della coorte attuale.
+- Le celle senza gruppo sono temporaneamente mostrate ad A e B, con nota nei dettagli. La vecchia lezione del 15 ottobre 2025 nel PDF del secondo anno è esclusa dal 2026/27 e segnalata nelle Anomalie.
+
+**English:** Mac 3.0.0 and iPhone/iPad 0.4.0 support all six Rome English Medicine years for 2026/27, with the correct enrolment cohorts, year/group selection and separate calendars/history. Existing fourth-year data is retained. Nineteen official syllabi are available offline and checked in both languages. The third year has one group; other years have A/B. The iOS personal development build is installed separately through Xcode. **Windows remains 2.3.6, with its existing fourth-year functionality.**
 
 ## Installazione macOS
 
-1. Apri [le release](https://github.com/lbzz98/uniattendance-beta/releases) e scarica **UniAttendance-2.6.0-macOS-universal.zip** dagli Assets. Per l’edizione UniAttendance Beta scarica **UniAttendance-2.6.0-beta.1-macOS-universal.zip**. Non scaricare Source code.
+1. Apri [le release](https://github.com/lbzz98/uniattendance-beta/releases) e scarica **UniAttendance-3.0.0-macOS-universal.zip** dagli Assets. Per l’edizione UniAttendance Beta scarica **UniAttendance-3.0.0-beta.1-macOS-universal.zip**. Non scaricare Source code.
 2. Chiudi la copia precedente, estrai lo ZIP e trascina l’app in **Applicazioni**, sostituendo la stessa edizione. Mantieni la stessa edizione per usare il medesimo archivio locale.
 3. Apri da Applicazioni. Se macOS blocca questa beta non notarizzata, dopo il primo tentativo vai in **Impostazioni di Sistema → Privacy e sicurezza → Apri comunque** e conferma. Consenti solo la copia scaricata da questo repository. [Istruzioni Apple](https://support.apple.com/it-it/102445).
 4. Al primo avvio premi **Copia richiesta di attivazione** e inviala all’organizzatore. Non servono password o credenziali UniCamillus per la licenza.
 5. Importa il file **.ualicense** ricevuto con **Apri file licenza…**, oppure incolla il codice e premi **Attiva licenza**. La licenza è legata a quel Mac e installazione; le licenze valide restano utilizzabili dopo l’aggiornamento.
-6. Scegli gruppo A/B e lingua. Il tempo rimanente è visibile nella barra laterale: cliccalo per scadenza e rinnovo.
+6. Scegli l’anno di corso (1–6), il gruppo quando richiesto e la lingua. Al terzo anno il gruppo è unico. Il tempo rimanente è visibile nella barra laterale: cliccalo per scadenza e rinnovo.
 7. Gli aggiornamenti si controllano all’avvio e ogni ora mentre l’app è aperta. Da **Impostazioni → Aggiornamenti dell’app** puoi scaricare, verificare, installare e riavviare automaticamente, conservando dati e licenza. Non serve un account GitHub.
 
 Richiede **macOS 14 o successivo**, Apple Silicon o Intel.
@@ -56,7 +66,7 @@ Nella beta personale iPhone/iPad **0.3.0**, il documento viene spostato negli **
 
 ## Syllabus aggiornati e sessione WebApp
 
-I tre syllabus ufficiali vengono controllati all’avvio e ogni ora durante l’esecuzione. I PDF sono disponibili offline e gli errori conservano l’ultima copia valida. I formati integrati supportati aggiornano moduli, docenti, email, CFU e sezioni nella lingua originale del PDF; un formato nuovo non riconosciuto rimane consultabile come PDF. Internal Medicine include Veronese e Solimando (Geriatrics) e Capobianco (Physical Medicine and Rehabilitation). Allergology–Immunology: **1 CFU / 10 ore**, con anomalia crediti risolta.
+I syllabus della coorte e dell’anno selezionati vengono controllati all’avvio e ogni ora durante l’esecuzione. I PDF sono disponibili offline e gli errori conservano l’ultima copia valida. I formati integrati supportati aggiornano moduli, docenti, email, CFU e sezioni nella lingua originale del PDF; un formato nuovo non riconosciuto rimane consultabile come PDF. Per il quarto anno, Internal Medicine include Veronese e Solimando (Geriatrics) e Capobianco (Physical Medicine and Rehabilitation). Allergology–Immunology: **1 CFU / 10 ore**, con anomalia crediti risolta.
 
 Dopo **Disconnetti**, la sessione precedente viene azzerata prima di aprire il login ufficiale. Tornare a Materiali online durante questa operazione non riutilizza navigazioni o risultati precedenti. I punti elenco dei syllabus sono allineati al testo; le righe estratte dal PDF sono ricomposte senza perdere parole.
 
@@ -78,7 +88,7 @@ Course and module names use calendar-related colors in online and offline Materi
 
 ## English — installation
 
-1. Open [Releases](https://github.com/lbzz98/uniattendance-beta/releases). On Mac download **UniAttendance-2.6.0-macOS-universal.zip**, or the macOS ZIP with beta.1 for the UniAttendance Beta edition. On Windows download **UniAttendance-2.3.6-beta.1-windows-x64.zip**. Do not download Source code.
+1. Open [Releases](https://github.com/lbzz98/uniattendance-beta/releases). On Mac download **UniAttendance-3.0.0-macOS-universal.zip**, or the macOS ZIP with beta.1 for the UniAttendance Beta edition. On Windows download **UniAttendance-2.3.6-beta.1-windows-x64.zip**. Do not download Source code.
 2. **macOS:** quit the old copy, extract the ZIP and move the app to **Applications**, replacing the same edition. If blocked, first attempt to open it, then use **System Settings → Privacy & Security → Open Anyway** and confirm. Only allow the copy from this repository. [Apple instructions](https://support.apple.com/en-us/102445).
 3. **Windows:** extract all files to a writable folder and run UniAttendance.exe. .NET is bundled; install Microsoft's WebView2 Runtime using the in-app official link if required.
 4. Copy your activation request, send it to the organizer and import the .ualicense file you receive. Licenses are bound to the device and installation. Mac and Windows licenses are separate; existing valid Mac licenses survive updating.
