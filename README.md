@@ -1,10 +1,10 @@
 # UniAttendance — beta macOS e Windows
 
-Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 2.4.0 beta; Windows: 2.3.6 beta**. Serve una licenza per il proprio dispositivo, rilasciata dall’organizzatore della beta.
+Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 2.4.1 beta; Windows: 2.3.6 beta**. Serve una licenza per il proprio dispositivo, rilasciata dall’organizzatore della beta.
 
 ## Installazione macOS
 
-1. Apri [le release](https://github.com/lbzz98/uniattendance-beta/releases) e scarica **UniAttendance-2.4.0-macOS-universal.zip** dagli Assets. Per l’edizione UniAttendance Beta scarica **UniAttendance-2.4.0-beta.1-macOS-universal.zip**. Non scaricare Source code.
+1. Apri [le release](https://github.com/lbzz98/uniattendance-beta/releases) e scarica **UniAttendance-2.4.1-macOS-universal.zip** dagli Assets. Per l’edizione UniAttendance Beta scarica **UniAttendance-2.4.1-beta.1-macOS-universal.zip**. Non scaricare Source code.
 2. Chiudi la copia precedente, estrai lo ZIP e trascina l’app in **Applicazioni**, sostituendo la stessa edizione. Mantieni la stessa edizione per usare il medesimo archivio locale.
 3. Apri da Applicazioni. Se macOS blocca questa beta non notarizzata, dopo il primo tentativo vai in **Impostazioni di Sistema → Privacy e sicurezza → Apri comunque** e conferma. Consenti solo la copia scaricata da questo repository. [Istruzioni Apple](https://support.apple.com/it-it/102445).
 4. Al primo avvio premi **Copia richiesta di attivazione** e inviala all’organizzatore. Non servono password o credenziali UniCamillus per la licenza.
@@ -30,13 +30,13 @@ I nomi dei corsi e sottocorsi nei menu online e offline riprendono i colori del 
 
 ## Slide e appunti su Mac
 
-Dalla **Biblioteca offline** puoi visualizzare PDF e PowerPoint. Il lettore PDF ha un pannello di appunti per singola slide, salvati automaticamente sul Mac. **Esporta slide e appunti…** crea un PDF con slide a sinistra e note a destra; include le slide annotate oppure tutte le slide. Le note lunghe continuano sulle pagine successive.
+Dalla **Biblioteca offline** puoi visualizzare PDF e PowerPoint in un lettore più ampio, adattato allo schermo. Accanto a **Leggi**, i PowerPoint hanno il pulsante **Converti in PDF e annota**: converte localmente con Keynote e apre gli appunti, riutilizzando il PDF interno se già pronto. Il lettore PDF ha un pannello di appunti per singola slide, salvati automaticamente sul Mac. **Esporta slide e appunti…** crea un PDF con slide a sinistra e note a destra; include le slide annotate oppure tutte le slide. Le note lunghe continuano sulle pagine successive.
 
-Per annotare PowerPoint scegli **Converti con Keynote** (Keynote installato, eventuale permesso Automazione) oppure **Usa un PDF delle slide…**. La conversione avviene localmente su una copia temporanea; una sola copia PDF interna viene riutilizzata senza duplicare la biblioteca. L’originale resta invariato. Verifica la resa dei font/slide convertiti; animazioni e video non vengono inclusi. Gli appunti rimangono legati alla versione del documento.
+Per annotare PowerPoint scegli **Converti in PDF e prendi appunti** (Keynote installato, eventuale permesso Automazione) oppure **Usa un PDF delle slide…**. La conversione avviene localmente su una copia temporanea; una sola copia PDF interna viene riutilizzata senza duplicare la biblioteca. L’originale resta invariato. Verifica la resa dei font/slide convertiti; animazioni e video non vengono inclusi. Gli appunti rimangono legati alla versione del documento.
 
-**Passaggio alla 2.4.0:** installa una volta lo ZIP Mac dalla release. Questa versione introduce `updates/macos-beta.json`, il canale dedicato agli aggiornamenti Mac; i successivi aggiornamenti sono automatici dall’app. I vecchi feed ufficiali vengono migrati sul Mac. Il feed precedente resta alla 2.3.6 per Windows, che non riceve modifiche in questa release.
+**Aggiornamenti Mac:** dalla 2.4.0 usa normalmente il controllo aggiornamenti nell’app, con lo stesso feed `updates/macos-beta.json`. Dalla 2.3.6, installa lo ZIP una volta oppure imposta in **Fonte degli aggiornamenti** `https://raw.githubusercontent.com/lbzz98/uniattendance-beta/main/updates/macos-beta.json`, salva e controlla di nuovo. I vecchi feed ufficiali vengono migrati sul Mac dopo l’aggiornamento. Il feed precedente resta alla 2.3.6 per Windows, che non riceve modifiche in questa release.
 
-**Mac slide notes:** PDF and PowerPoint preview, per-slide local autosave and side-by-side PDF export. Convert locally with Keynote or select a matching PDF. Long notes continue without truncation. Upgrade from 2.3.6 with this release’s ZIP once to adopt the dedicated Mac update feed. Windows stays at 2.3.6, with its existing feed unchanged.
+**Mac slide notes:** PDF and PowerPoint preview, per-slide local autosave and side-by-side PDF export. Convert locally with Keynote or select a matching PDF. Long notes continue without truncation. From 2.4.0, update normally with the same Mac feed. From 2.3.6, install the ZIP once or configure the dedicated Mac feed URL above. PowerPoint files have a direct Convert to PDF and annotate button; the larger reader fits the screen. Windows stays at 2.3.6, with its existing feed unchanged.
 
 ## Biblioteca e formati dei materiali
 
@@ -68,7 +68,7 @@ Course and module names use calendar-related colors in online and offline Materi
 
 ## English — installation
 
-1. Open [Releases](https://github.com/lbzz98/uniattendance-beta/releases). On Mac download **UniAttendance-2.4.0-macOS-universal.zip**, or the macOS ZIP with beta.1 for the UniAttendance Beta edition. On Windows download **UniAttendance-2.3.6-beta.1-windows-x64.zip**. Do not download Source code.
+1. Open [Releases](https://github.com/lbzz98/uniattendance-beta/releases). On Mac download **UniAttendance-2.4.1-macOS-universal.zip**, or the macOS ZIP with beta.1 for the UniAttendance Beta edition. On Windows download **UniAttendance-2.3.6-beta.1-windows-x64.zip**. Do not download Source code.
 2. **macOS:** quit the old copy, extract the ZIP and move the app to **Applications**, replacing the same edition. If blocked, first attempt to open it, then use **System Settings → Privacy & Security → Open Anyway** and confirm. Only allow the copy from this repository. [Apple instructions](https://support.apple.com/en-us/102445).
 3. **Windows:** extract all files to a writable folder and run UniAttendance.exe. .NET is bundled; install Microsoft's WebView2 Runtime using the in-app official link if required.
 4. Copy your activation request, send it to the organizer and import the .ualicense file you receive. Licenses are bound to the device and installation. Mac and Windows licenses are separate; existing valid Mac licenses survive updating.
