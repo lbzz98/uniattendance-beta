@@ -1,31 +1,31 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.3.3-beta.1",
-  "build": 38,
+  "version": "2.3.4-beta.1",
+  "build": 39,
   "published": "2026-10-20",
   "notes": {
-    "en": "Automatic syllabus checks on launch and hourly; updated official PDFs, Internal Medicine faculty, and Allergology corrected to 1 ECTS / 10 hours.",
-    "it": "Controllo syllabus all’avvio e ogni ora; PDF e docenti Internal Medicine aggiornati; Allergology corretta a 1 CFU / 10 ore."
+    "en": "Faster return to login after sign-out on Mac/Windows; clearer syllabus paragraphs and bullets. Includes automatic syllabus updates, Internal Medicine faculty and Allergology at 1 ECTS / 10 hours.",
+    "it": "Ritorno al login corretto dopo Disconnetti su Mac/Windows; syllabus con paragrafi e punti elenco leggibili. Include controlli automatici, docenti Internal Medicine e Allergology a 1 CFU / 10 ore."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.3-beta.1/UniAttendance-2.3.3-macOS-universal.zip",
-      "filename": "UniAttendance-2.3.3-macOS-universal.zip",
-      "sha256": "cbb5eb9c397a49531e8ad0b4b1f855f5986ea89d46106ba67993943787dac27b",
-      "bytes": 4344573
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.4-beta.1/UniAttendance-2.3.4-macOS-universal.zip",
+      "filename": "UniAttendance-2.3.4-macOS-universal.zip",
+      "sha256": "5fdcdfbce75cdf0ff5c6835b236aad6f786005ae68cfafd0dcbc7c67e07697fc",
+      "bytes": 4361238
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.3-beta.1/UniAttendance-2.3.3-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.3.3-beta.1-macOS-universal.zip",
-      "sha256": "d28cad26068afe3794d771bf36d5825ac0d9d09738087229b40d32f792726499",
-      "bytes": 4344754
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.4-beta.1/UniAttendance-2.3.4-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.3.4-beta.1-macOS-universal.zip",
+      "sha256": "e9d11d907af00f865addbf5d3e93259ed9cc6683f3f219955949b404d234c90b",
+      "bytes": 4361425
     },
     "windows": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.3-beta.1/UniAttendance-2.3.3-beta.1-windows-x64.zip",
-      "filename": "UniAttendance-2.3.3-beta.1-windows-x64.zip",
-      "sha256": "83c6fbf01ada3b5cec8394a09b7f98dc8dcb4faf4f38d7ee3bcf2e00b934fb38",
-      "bytes": 52358890
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.4-beta.1/UniAttendance-2.3.4-beta.1-windows-x64.zip",
+      "filename": "UniAttendance-2.3.4-beta.1-windows-x64.zip",
+      "sha256": "c001f5a633f4862fbeb29ca94dffe4e8fb0316c71e4717e20e9712a4b679aad9",
+      "bytes": 52360372
     }
   }
 }
