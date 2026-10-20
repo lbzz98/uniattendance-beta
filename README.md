@@ -2,7 +2,7 @@
 
 Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 3.0.1 beta; Windows: 2.3.6 beta**. Serve una licenza per il proprio dispositivo, rilasciata dall’organizzatore della beta.
 
-## Novità Mac 3.0.1 e iPhone/iPad 0.4.2
+## Novità Mac 3.0.1 e iPhone/iPad 0.4.3
 
 - Tutti i sei anni di **Medicine and Surgery in inglese a Roma, 2026/27**. La coorte segue l’anno di immatricolazione: 2026/27 per il primo anno, fino a 2021/22 per il sesto.
 - Al primo avvio scegli anno e poi gruppo; puoi cambiarli nelle impostazioni. Terzo anno: gruppo unico. Altri anni: A/B.
@@ -10,15 +10,15 @@ Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 3.0.1 be
 - **19 syllabus ufficiali offline**, controllati nelle pagine italiana e inglese della coorte corretta. Scientific English: 6 CFU dal PDF italiano coerente con 2+3+1; Laboratory Medicine conserva l’anomalia ufficiale 7 contro 8. Neurological Sciences usa provvisoriamente il syllabus ufficiale 2025/26 della coorte precedente (6 CFU, 4+1+1), con provenienza esplicita: la ricerca del documento attuale rimane attiva all’apertura e ogni ora.
 - Le celle senza gruppo sono temporaneamente mostrate ad A e B, con nota nei dettagli. La vecchia lezione del 15 ottobre 2025 nel PDF del secondo anno è esclusa dal 2026/27 e segnalata nelle Anomalie.
 
-**English:** Mac 3.0.1 and iPhone/iPad 0.4.2 support all six Rome English Medicine years for 2026/27, with the correct enrolment cohorts, year/group selection and separate calendars/history. Existing fourth-year data is retained. Nineteen current official syllabi and one explicitly labeled previous-cohort Neurological Sciences reference are available offline; current-cohort pages remain checked on launch and hourly. The third year has one group; other years have A/B. The iOS personal development build is installed separately through Xcode. **Windows remains 2.3.6, with its existing fourth-year functionality.**
+**English:** Mac 3.0.1 and iPhone/iPad 0.4.3 support all six Rome English Medicine years for 2026/27, with the correct enrolment cohorts, year/group selection and separate calendars/history. Existing fourth-year data is retained. Nineteen current official syllabi and one explicitly labeled previous-cohort Neurological Sciences reference are available offline; current-cohort pages remain checked on launch and hourly. The third year has one group; other years have A/B. The iOS personal development build is installed separately through Xcode. **Windows remains 2.3.6, with its existing fourth-year functionality.**
 
 I sottogruppi **Biology Lab** restano nel calendario del primo anno, ma non entrano nelle percentuali, nei riepiloghi o nelle proiezioni degli obiettivi. Le sovrapposizioni restano nelle Anomalie senza eliminare le lezioni. Il totale di Laboratory Medicine rimane 7 CFU / 70 ore; la discordanza dei moduli nel PDF attuale resta segnalata.
 
 **English:** Biology Lab subgroups remain on the calendar but do not contribute to course attendance totals or goals. Overlaps remain informational anomalies. Laboratory Medicine retains its official 7 ECTS total and the unresolved module-allocation warning.
 
-Su iPhone/iPad **0.4.2**, ogni voce di Anomalie e cronologia indica il gruppo o i gruppi coinvolti. Le incongruenze dei syllabus sono comuni ai gruppi del corso; le segnalazioni sui tornelli riguardano le badgiate personali, indipendentemente dal gruppo delle lezioni. I cambiamenti mostrano gruppo precedente e successivo.
+Su iPhone/iPad **0.4.3**, la configurazione chiede prima l’anno e poi il gruppo quando necessario, anche se una precedente configurazione incompleta aveva già salvato un anno. La prima conferma viene richiesta una sola volta senza eliminare i dati. Inoltre ogni voce di Anomalie e cronologia indica il gruppo o i gruppi coinvolti. Le incongruenze dei syllabus sono comuni ai gruppi del corso; le segnalazioni sui tornelli riguardano le badgiate personali, indipendentemente dal gruppo delle lezioni. I cambiamenti mostrano gruppo precedente e successivo.
 
-**English:** iOS 0.4.2 explicitly identifies groups in anomalies and calendar history, including before/after group changes. Course-wide syllabus notices and personal turnstile-scan warnings clearly state their scope.
+**English:** iOS 0.4.3 asks for study year before group during setup, including incomplete migrated installations; confirmation is saved without deleting existing data. It also explicitly identifies groups in anomalies and calendar history, including before/after group changes. Course-wide syllabus notices and personal turnstile-scan warnings clearly state their scope.
 
 ## Installazione macOS
 
