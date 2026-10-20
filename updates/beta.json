@@ -1,31 +1,31 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "2.3.5-beta.1",
-  "build": 40,
+  "version": "2.3.6-beta.1",
+  "build": 41,
   "published": "2026-10-20",
   "notes": {
-    "en": "Offline documents to Trash/Recycle Bin; localized All lecturer option; PDF/PPT/PPTX badges in online results.",
-    "it": "Documenti offline nel Cestino; voce Tutti tradotta; indicatori PDF/PPT/PPTX nei risultati online."
+    "en": "Course and module names use calendar-related colors in online and offline Materials on Mac and Windows.",
+    "it": "Nomi di corsi e sottocorsi nei colori del calendario nei Materiali online e offline su Mac e Windows."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.5-beta.1/UniAttendance-2.3.5-macOS-universal.zip",
-      "filename": "UniAttendance-2.3.5-macOS-universal.zip",
-      "sha256": "9765f1c1d1c3c1a76bb76f6031bdf76348e43fe0bb24a6d8673220f900ae5e3b",
-      "bytes": 4405302
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.6-beta.1/UniAttendance-2.3.6-macOS-universal.zip",
+      "filename": "UniAttendance-2.3.6-macOS-universal.zip",
+      "sha256": "161b1dbf3bdb6dbfbea80cfe2fe489f0a635b3dc6b09019eb10704978e699eb1",
+      "bytes": 4414525
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.5-beta.1/UniAttendance-2.3.5-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-2.3.5-beta.1-macOS-universal.zip",
-      "sha256": "fdbfa78482b802ee1bc97b56e963a0120f4249c61c891b7dc73c5983fa545a5a",
-      "bytes": 4405489
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.6-beta.1/UniAttendance-2.3.6-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-2.3.6-beta.1-macOS-universal.zip",
+      "sha256": "9bd519e850f4f18086cf8a76a8b14e32cc9d54183dcb52b8a31a6d2ff79ecb8a",
+      "bytes": 4414706
     },
     "windows": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.5-beta.1/UniAttendance-2.3.5-beta.1-windows-x64.zip",
-      "filename": "UniAttendance-2.3.5-beta.1-windows-x64.zip",
-      "sha256": "9fd7e6254889cb5b7d3dd3a24463ecdbeb5d94c9b7450f5a4ba585a462f6fb1b",
-      "bytes": 52361448
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v2.3.6-beta.1/UniAttendance-2.3.6-beta.1-windows-x64.zip",
+      "filename": "UniAttendance-2.3.6-beta.1-windows-x64.zip",
+      "sha256": "24b584ad962cd258678a60080373adae7909fd2d7f25d23e90758ee946c335de",
+      "bytes": 52361542
     }
   }
 }
