@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.0.2-beta.1",
-  "build": 48,
+  "version": "3.0.3-beta.1",
+  "build": 49,
   "published": "2026-10-21",
   "notes": {
-    "it": "Calcolo presenze più rapido; aggiornamento di Anatomic Pathology II e lettura delle email docenti corretti. Dati personali e regole di frequenza invariati.",
-    "en": "Faster attendance calculations; fixed Anatomic Pathology II updates and lecturer email extraction. Personal data and attendance rules preserved."
+    "it": "Badge con aggiornamenti del calendario non letti sulle Impostazioni. Lettura persistente per anno e sincronizzazione automatica all’avvio e ogni ora.",
+    "en": "Unread calendar update count on Settings. Per-year read status persists across restarts; automatic calendar checks on launch and hourly."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.2-beta.1/UniAttendance-3.0.2-macOS-universal.zip",
-      "filename": "UniAttendance-3.0.2-macOS-universal.zip",
-      "sha256": "fcf33671096647801aed35ed12eb0535df79e6c819f4bb40d230365bf81a4565",
-      "bytes": 11791036
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.3-beta.1/UniAttendance-3.0.3-macOS-universal.zip",
+      "filename": "UniAttendance-3.0.3-macOS-universal.zip",
+      "sha256": "ca5d3cb1aedafab83355a2f67fdb95e09aad7847957c5ac4ba63dba689858e96",
+      "bytes": 11810575
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.2-beta.1/UniAttendance-3.0.2-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.0.2-beta.1-macOS-universal.zip",
-      "sha256": "7abd19ff7a16ba50b6ad6d8c2b36bb099d088f406a904e758f683bbbdfc706f7",
-      "bytes": 11791638
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.3-beta.1/UniAttendance-3.0.3-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.0.3-beta.1-macOS-universal.zip",
+      "sha256": "f3eda0c87d7dbff4ed13d64e65f2e04f849b54bf4c993dcd44a04b4e6fcbf377",
+      "bytes": 11811187
     }
   }
 }
