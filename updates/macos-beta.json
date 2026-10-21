@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.0.3-beta.1",
-  "build": 49,
+  "version": "3.1.0-beta.1",
+  "build": 50,
   "published": "2026-10-21",
   "notes": {
-    "it": "Badge con aggiornamenti del calendario non letti sulle Impostazioni. Lettura persistente per anno e sincronizzazione automatica all’avvio e ogni ora.",
-    "en": "Unread calendar update count on Settings. Per-year read status persists across restarts; automatic calendar checks on launch and hourly."
+    "it": "Materiali Online: tutti gli anni e i due semestri con corsi, sottocorsi e docenti organizzati e colorati. Ricerca anche per materia; fonti ufficiali recenti e menu richiudibili durante la ricerca.",
+    "en": "Online Materials: all six years and both semesters, with organized, color-coded courses, modules and lecturers. Search by subject too; recent official sources and collapsible search results."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.3-beta.1/UniAttendance-3.0.3-macOS-universal.zip",
-      "filename": "UniAttendance-3.0.3-macOS-universal.zip",
-      "sha256": "ca5d3cb1aedafab83355a2f67fdb95e09aad7847957c5ac4ba63dba689858e96",
-      "bytes": 11810575
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.1.0-beta.1/UniAttendance-3.1.0-macOS-universal.zip",
+      "filename": "UniAttendance-3.1.0-macOS-universal.zip",
+      "sha256": "95b66a07d3c5927b6428b1d2beb72e28fe55683a0ba9a9209c14e6e4ff7eeb58",
+      "bytes": 11964906
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.3-beta.1/UniAttendance-3.0.3-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.0.3-beta.1-macOS-universal.zip",
-      "sha256": "f3eda0c87d7dbff4ed13d64e65f2e04f849b54bf4c993dcd44a04b4e6fcbf377",
-      "bytes": 11811187
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.1.0-beta.1/UniAttendance-3.1.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.1.0-beta.1-macOS-universal.zip",
+      "sha256": "f920d85807ec9ace45de2aa62444ded981ad6cf26811b5f63194779f77b12224",
+      "bytes": 11965510
     }
   }
 }
