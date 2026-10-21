@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.0.1-beta.1",
-  "build": 47,
+  "version": "3.0.2-beta.1",
+  "build": 48,
   "published": "2026-10-21",
   "notes": {
-    "it": "Neurological Sciences: syllabus provvisorio ufficiale 2025/26, 6 CFU, con provenienza visibile e ricerca attiva della coorte attuale; Biology Lab escluso dalle percentuali; testo Attendance corretto.",
-    "en": "Neurological Sciences: labeled official 2025/26 reference, 6 ECTS, with ongoing current-cohort checks; Biology Lab excluded from attendance totals; corrected Attendance explanation."
+    "it": "Calcolo presenze più rapido; aggiornamento di Anatomic Pathology II e lettura delle email docenti corretti. Dati personali e regole di frequenza invariati.",
+    "en": "Faster attendance calculations; fixed Anatomic Pathology II updates and lecturer email extraction. Personal data and attendance rules preserved."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.1-beta.1/UniAttendance-3.0.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.0.1-macOS-universal.zip",
-      "sha256": "148c39402c7018d32c0dec6934118f75db5e411877b2a2ed7d33e16d89a8d3ee",
-      "bytes": 11619321
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.2-beta.1/UniAttendance-3.0.2-macOS-universal.zip",
+      "filename": "UniAttendance-3.0.2-macOS-universal.zip",
+      "sha256": "fcf33671096647801aed35ed12eb0535df79e6c819f4bb40d230365bf81a4565",
+      "bytes": 11791036
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.1-beta.1/UniAttendance-3.0.1-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.0.1-beta.1-macOS-universal.zip",
-      "sha256": "69ef2674bc2ecd93771780b0961c89bae969d2ff26d168cda6c147d4734731a4",
-      "bytes": 11619914
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.0.2-beta.1/UniAttendance-3.0.2-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.0.2-beta.1-macOS-universal.zip",
+      "sha256": "7abd19ff7a16ba50b6ad6d8c2b36bb099d088f406a904e758f683bbbdfc706f7",
+      "bytes": 11791638
     }
   }
 }
