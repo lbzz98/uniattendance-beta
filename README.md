@@ -1,14 +1,14 @@
 # UniAttendance — beta macOS e Windows
 
-Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 3.1.0 beta; Windows: 2.3.6 beta**. Serve una licenza per il proprio dispositivo, rilasciata dall’organizzatore della beta.
+Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 3.2.0 beta; Windows: 2.3.6 beta**. Serve una licenza per il proprio dispositivo, rilasciata dall’organizzatore della beta.
 
-## Aggiornamento 21 ottobre 2026
+## Aggiornamento 22 ottobre 2026
 
-- **Mac 3.1.0 e iPhone/iPad 0.5.0 — Materiali Online:** disattivando **Docenti dei syllabus del semestre** si apre il catalogo di **tutti e sei gli anni e dei due semestri**, organizzato per anno → corso → sottocorso → docente. I nomi conservano i colori del calendario.
-- Cerca un docente oppure un corso/sottocorso, anche con nomi parziali come **biochem**. I risultati mantengono la gerarchia; puoi aprire e richiudere ogni livello mentre la ricerca è attiva.
-- Le attribuzioni usano syllabus ufficiali recenti: 2026/2027 quando pubblicati, altrimenti 2025/2026; alcuni docenti delle slide storiche hanno riferimenti 2024/2025. L’anno delle fonti precedenti è indicato nel menu. Le attribuzioni non verificate restano in **Altri docenti**. Nessuna modifica ai CFU usati nelle presenze.
-- **English:** switch off **Semester syllabus lecturers** in Online Materials to browse **all six study years and both semesters**, with color-coded courses, modules and lecturers. Search by subject or lecturer, including partial names. Search results can be collapsed manually. Official source/reference years remain visible; historical faculty do not change attendance credits.
-- Restano disponibili notifiche dei cambiamenti al calendario, sincronizzazione automatica, appunti PDF e tutte le funzioni precedenti. **Windows resta invariato.**
+- **Esami su Mac, iPhone e iPad:** date future di tutti e sei gli anni di Medicine and Surgery in inglese a Roma, indipendenti da anno/gruppo personali. Sessioni organizzate, ricerca per nome e sola visualizzazione degli appelli da oggi in avanti.
+- Ricerca anche per date e intervalli: **11 dicembre**, **11/12**, **11.12**, **10–14 dicembre**. I mesi sono riconosciuti anche durante la digitazione (Dic → Dice → Dicembre). Le annualità si possono richiudere anche durante la ricerca. Su iPhone: Calendario, Frequenza, Materiali e Badgiate nella barra principale; Syllabus ed Esami in Altro.
+- Dicembre 2026 usa il calendario ufficiale 2025/2026. Il PDF 2026/2027, ancora non pubblicato, viene cercato all’apertura e ogni ora durante l’esecuzione; errori di rete o parsing preservano l’ultima versione valida.
+- **iPad 0.6.0:** lettore PDF con appunti a tastiera a destra, scrittura Apple Pencil sulla slide o entrambe le modalità. Salvataggio locale automatico; esportazione con scrittura e testo a lato delle slide. Nessuna sincronizzazione iCloud inclusa. Prova Apple Pencil su hardware reale ancora da completare.
+- **English:** new Exams browser for all six study years, independent of your profile, with upcoming-only sessions and course-name search. iPad supports keyboard notes, handwriting or both; originals are preserved and notes can be exported. The unpublished 2026/2027 exam PDF is checked automatically. **Windows is unchanged.**
 
 ## Sei anni, coorti e gruppi
 
@@ -18,19 +18,19 @@ Calendario, syllabus, materiali e presenze UniCamillus. **Versione Mac: 3.1.0 be
 - **19 syllabus ufficiali offline**, controllati nelle pagine italiana e inglese della coorte corretta. Scientific English: 6 CFU dal PDF italiano coerente con 2+3+1; Laboratory Medicine conserva l’anomalia ufficiale 7 contro 8. Neurological Sciences usa provvisoriamente il syllabus ufficiale 2025/26 della coorte precedente (6 CFU, 4+1+1), con provenienza esplicita: la ricerca del documento attuale rimane attiva all’apertura e ogni ora.
 - Le celle senza gruppo sono temporaneamente mostrate ad A e B, con nota nei dettagli. La vecchia lezione del 15 ottobre 2025 nel PDF del secondo anno è esclusa dal 2026/27 e segnalata nelle Anomalie.
 
-**English:** Mac 3.1.0 and iPhone/iPad 0.5.0 support all six Rome English Medicine years for 2026/27, with the correct enrolment cohorts, year/group selection and separate calendars/history. Existing fourth-year data is retained. Nineteen current official syllabi and one explicitly labeled previous-cohort Neurological Sciences reference are available offline; current-cohort pages remain checked on launch and hourly. The third year has one group; other years have A/B. The iOS personal development build is installed separately through Xcode. **Windows remains 2.3.6, with its existing fourth-year functionality.**
+**English:** Mac 3.2.0 and iPhone/iPad 0.6.0 support all six Rome English Medicine years for 2026/27, with the correct enrolment cohorts, year/group selection and separate calendars/history. Existing fourth-year data is retained. Nineteen current official syllabi and one explicitly labeled previous-cohort Neurological Sciences reference are available offline; current-cohort pages remain checked on launch and hourly. The third year has one group; other years have A/B. The iOS personal development build is installed separately through Xcode. **Windows remains 2.3.6, with its existing fourth-year functionality.**
 
 I sottogruppi **Biology Lab** restano nel calendario del primo anno, ma non entrano nelle percentuali, nei riepiloghi o nelle proiezioni degli obiettivi. Le sovrapposizioni restano nelle Anomalie senza eliminare le lezioni. Il totale di Laboratory Medicine rimane 7 CFU / 70 ore; la discordanza dei moduli nel PDF attuale resta segnalata.
 
 **English:** Biology Lab subgroups remain on the calendar but do not contribute to course attendance totals or goals. Overlaps remain informational anomalies. Laboratory Medicine retains its official 7 ECTS total and the unresolved module-allocation warning.
 
-Su iPhone/iPad **0.5.0**, la configurazione chiede prima l’anno e poi il gruppo quando necessario, anche se una precedente configurazione incompleta aveva già salvato un anno. La prima conferma viene richiesta una sola volta senza eliminare i dati. Inoltre ogni voce di Anomalie e cronologia indica il gruppo o i gruppi coinvolti. Le incongruenze dei syllabus sono comuni ai gruppi del corso; le segnalazioni sui tornelli riguardano le badgiate personali, indipendentemente dal gruppo delle lezioni. I cambiamenti mostrano gruppo precedente e successivo.
+Su iPhone/iPad **0.6.0**, la configurazione chiede prima l’anno e poi il gruppo quando necessario, anche se una precedente configurazione incompleta aveva già salvato un anno. La prima conferma viene richiesta una sola volta senza eliminare i dati. Inoltre ogni voce di Anomalie e cronologia indica il gruppo o i gruppi coinvolti. Le incongruenze dei syllabus sono comuni ai gruppi del corso; le segnalazioni sui tornelli riguardano le badgiate personali, indipendentemente dal gruppo delle lezioni. I cambiamenti mostrano gruppo precedente e successivo.
 
-**English:** iOS 0.5.0 asks for study year before group during setup, including incomplete migrated installations; confirmation is saved without deleting existing data. It also explicitly identifies groups in anomalies and calendar history, including before/after group changes. Course-wide syllabus notices and personal turnstile-scan warnings clearly state their scope.
+**English:** iOS 0.6.0 asks for study year before group during setup, including incomplete migrated installations; confirmation is saved without deleting existing data. It also explicitly identifies groups in anomalies and calendar history, including before/after group changes. Course-wide syllabus notices and personal turnstile-scan warnings clearly state their scope.
 
 ## Installazione macOS
 
-1. Apri [le release](https://github.com/lbzz98/uniattendance-beta/releases) e scarica **UniAttendance-3.1.0-macOS-universal.zip** dagli Assets. Per l’edizione UniAttendance Beta scarica **UniAttendance-3.1.0-beta.1-macOS-universal.zip**. Non scaricare Source code.
+1. Apri [le release](https://github.com/lbzz98/uniattendance-beta/releases) e scarica **UniAttendance-3.2.0-macOS-universal.zip** dagli Assets. Per l’edizione UniAttendance Beta scarica **UniAttendance-3.2.0-beta.1-macOS-universal.zip**. Non scaricare Source code.
 2. Chiudi la copia precedente, estrai lo ZIP e trascina l’app in **Applicazioni**, sostituendo la stessa edizione. Mantieni la stessa edizione per usare il medesimo archivio locale.
 3. Apri da Applicazioni. Se macOS blocca questa beta non notarizzata, dopo il primo tentativo vai in **Impostazioni di Sistema → Privacy e sicurezza → Apri comunque** e conferma. Consenti solo la copia scaricata da questo repository. [Istruzioni Apple](https://support.apple.com/it-it/102445).
 4. Al primo avvio premi **Copia richiesta di attivazione** e inviala all’organizzatore. Non servono password o credenziali UniCamillus per la licenza.
@@ -104,7 +104,7 @@ Course and module names use calendar-related colors in online and offline Materi
 
 ## English — installation
 
-1. Open [Releases](https://github.com/lbzz98/uniattendance-beta/releases). On Mac download **UniAttendance-3.1.0-macOS-universal.zip**, or the macOS ZIP with beta.1 for the UniAttendance Beta edition. On Windows download **UniAttendance-2.3.6-beta.1-windows-x64.zip**. Do not download Source code.
+1. Open [Releases](https://github.com/lbzz98/uniattendance-beta/releases). On Mac download **UniAttendance-3.2.0-macOS-universal.zip**, or the macOS ZIP with beta.1 for the UniAttendance Beta edition. On Windows download **UniAttendance-2.3.6-beta.1-windows-x64.zip**. Do not download Source code.
 2. **macOS:** quit the old copy, extract the ZIP and move the app to **Applications**, replacing the same edition. If blocked, first attempt to open it, then use **System Settings → Privacy & Security → Open Anyway** and confirm. Only allow the copy from this repository. [Apple instructions](https://support.apple.com/en-us/102445).
 3. **Windows:** extract all files to a writable folder and run UniAttendance.exe. .NET is bundled; install Microsoft's WebView2 Runtime using the in-app official link if required.
 4. Copy your activation request, send it to the organizer and import the .ualicense file you receive. Licenses are bound to the device and installation. Mac and Windows licenses are separate; existing valid Mac licenses survive updating.
