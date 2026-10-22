@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.2.0-beta.1",
-  "build": 51,
+  "version": "3.2.1-beta.1",
+  "build": 52,
   "published": "2026-10-22",
   "notes": {
-    "it": "Nuova sezione Esami: tutti i sei anni, sessioni future, annualità richiudibili e ricerca per corso, data o intervallo (11/12, 10–15 dicembre), anche mentre scrivi il mese. Calendari esami controllati all’avvio e ogni ora.",
-    "en": "New Exams section: all six years, upcoming sessions, collapsible years and search by course, date or range (11/12, 10–15 December), including month names as you type. Exam calendars checked on launch and hourly."
+    "it": "Esami: nomi dei corsi senza tutto maiuscolo, font e colori coerenti con Materiali. Annualità chiuse inizialmente anche durante la ricerca; apri soltanto quelle desiderate.",
+    "en": "Exams: readable course names, with the same fonts and course colors as Materials. Study years start collapsed, including during search; open only the years you want."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.2.0-beta.1/UniAttendance-3.2.0-macOS-universal.zip",
-      "filename": "UniAttendance-3.2.0-macOS-universal.zip",
-      "sha256": "ae51a002fa1e6973bb5fe643b68118756b6a09e14e40a3cbd842e06ad8fc4e3a",
-      "bytes": 12606642
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.2.1-beta.1/UniAttendance-3.2.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.2.1-macOS-universal.zip",
+      "sha256": "8758a6b918613a55aaeebf07205beb1bc359dafba7b7a16ac694139dbcd39f23",
+      "bytes": 12613051
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.2.0-beta.1/UniAttendance-3.2.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.2.0-beta.1-macOS-universal.zip",
-      "sha256": "578b393461e23a6ed3be24bf39e94060c2de7163f4f16a041da3301eb73b2df7",
-      "bytes": 12607271
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.2.1-beta.1/UniAttendance-3.2.1-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.2.1-beta.1-macOS-universal.zip",
+      "sha256": "a4bc4c64dd1f4f71760e39d3f949c383a5cce3bbc15360fd03503054a62d75c7",
+      "bytes": 12613695
     }
   }
 }
