@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.7.0-beta.1",
-  "build": 59,
+  "version": "3.8.0-beta.1",
+  "build": 60,
   "published": "2026-10-27",
   "notes": {
-    "it": "Nuovo riepilogo ore a schede con barre grigio/viola. Materiali Online: Scarica tutti i risultati visibili, con coda sequenziale, progresso, stop e salto dei file già salvati.",
-    "en": "New hours summary cards with grey/purple bars. Materials Online: Download all displayed results with a sequential queue, progress, stop and already-saved file skipping."
+    "it": "Libreria: gerarchia Anno/Corso/Sottocorso/Docente e colori dell’Online anche per i file esistenti. Ricerca locale dentro PDF, scansioni, PPTX e DOCX. Eliminati di recente recuperabili per 30 giorni; poi Cestino del Mac.",
+    "en": "Library: Year/Course/Module/Lecturer hierarchy and Online colors for existing files too. Local content search in PDF, scans, PPTX and DOCX. Restore Recently Deleted for 30 days, then files move to Mac Trash."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.7.0-beta.1/UniAttendance-3.7.0-macOS-universal.zip",
-      "filename": "UniAttendance-3.7.0-macOS-universal.zip",
-      "sha256": "92fc9c7d56c1e9d0d2cbc37471b29371c6bb790d5da973d90183b2b5f607a096",
-      "bytes": 12955452
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.8.0-beta.1/UniAttendance-3.8.0-macOS-universal.zip",
+      "filename": "UniAttendance-3.8.0-macOS-universal.zip",
+      "sha256": "c2afe311b0229fa82ba67ba87394ed60841fec7173b74a63eefecf3f53e0911e",
+      "bytes": 13119386
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.7.0-beta.1/UniAttendance-3.7.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.7.0-beta.1-macOS-universal.zip",
-      "sha256": "c475b0ac8233c1577a6fe8e8dc56af1aab854e58e949d15d4ddcc110ad2e4f48",
-      "bytes": 12956086
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.8.0-beta.1/UniAttendance-3.8.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.8.0-beta.1-macOS-universal.zip",
+      "sha256": "ff24f47c8934eaed817ce240554c7abce7bc947e64fb7408e83ff6d92a16ff13",
+      "bytes": 13120011
     }
   }
 }
