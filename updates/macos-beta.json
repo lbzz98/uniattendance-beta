@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.5.0-beta.1",
-  "build": 57,
-  "published": "2026-10-26",
+  "version": "3.6.0-beta.1",
+  "build": 58,
+  "published": "2026-10-27",
   "notes": {
-    "it": "Correzione manuale della presenza dal calendario: percentuale da 0 a 100, salvata localmente e mantenuta dopo le sincronizzazioni. Aggiorna statistiche e obiettivi; puoi tornare alle badgiate in qualsiasi momento. Le ore contano dopo la fine della lezione. Non modifica il portale universitario.",
-    "en": "Manual attendance correction from Calendar: save a percentage from 0 to 100, retained across synchronizations. Updates statistics and goals; return to badge scans at any time. Hours count once the lesson ends. Does not modify the university portal."
+    "it": "Ore non ancora in calendario: nuovo segmento viola nelle barre e dettaglio in Impostazioni per corso, sottocorso, anno e gruppo. Ore già pianificate distinte in grigio; presenze e dati personali invariati.",
+    "en": "Unscheduled teaching hours: a purple attendance-bar segment and a Settings breakdown by course, module, study year and group. Scheduled remaining hours stay grey; attendance and personal data are preserved."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.5.0-beta.1/UniAttendance-3.5.0-macOS-universal.zip",
-      "filename": "UniAttendance-3.5.0-macOS-universal.zip",
-      "sha256": "e3564dba4c4fefc87548a5517b7fa8e924362463ce1f9826d1ad298656a46cea",
-      "bytes": 12778947
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.6.0-beta.1/UniAttendance-3.6.0-macOS-universal.zip",
+      "filename": "UniAttendance-3.6.0-macOS-universal.zip",
+      "sha256": "0c88e60f483886abde4f4ccba9610b6b64cbc0366a8f53001fc55cd6794a2299",
+      "bytes": 12852907
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.5.0-beta.1/UniAttendance-3.5.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.5.0-beta.1-macOS-universal.zip",
-      "sha256": "3d8a70e7ce186881e2e54ff2272770fd8430f1449cec217b876ab5d6b6aa5f4a",
-      "bytes": 12779588
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.6.0-beta.1/UniAttendance-3.6.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.6.0-beta.1-macOS-universal.zip",
+      "sha256": "773db619309c0fa5008022db20f386b62440718d31937fea8b66a50c6e498652",
+      "bytes": 12853541
     }
   }
 }
