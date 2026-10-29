@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.8.0-beta.1",
-  "build": 60,
-  "published": "2026-10-27",
+  "version": "3.9.0-beta.1",
+  "build": 61,
+  "published": "2026-10-29",
   "notes": {
-    "it": "Libreria: gerarchia Anno/Corso/Sottocorso/Docente e colori dell’Online anche per i file esistenti. Ricerca locale dentro PDF, scansioni, PPTX e DOCX. Eliminati di recente recuperabili per 30 giorni; poi Cestino del Mac.",
-    "en": "Library: Year/Course/Module/Lecturer hierarchy and Online colors for existing files too. Local content search in PDF, scans, PPTX and DOCX. Restore Recently Deleted for 30 days, then files move to Mac Trash."
+    "it": "Libreria: Seleziona/Seleziona tutti, preferiti e spostamento nel cestino in blocco. Negli Eliminati di recente: Svuota cestino con conferma. Sul Mac i file passano nel Cestino di macOS; gli appunti restano conservati.",
+    "en": "Library: Select/Select all, bulk favorites and Move to Trash. Recently Deleted now has confirmed Empty Trash; on Mac files move to the macOS Trash. Notes are preserved."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.8.0-beta.1/UniAttendance-3.8.0-macOS-universal.zip",
-      "filename": "UniAttendance-3.8.0-macOS-universal.zip",
-      "sha256": "c2afe311b0229fa82ba67ba87394ed60841fec7173b74a63eefecf3f53e0911e",
-      "bytes": 13119386
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.0-beta.1/UniAttendance-3.9.0-macOS-universal.zip",
+      "filename": "UniAttendance-3.9.0-macOS-universal.zip",
+      "sha256": "414ac48882d75668e207e65ad99cfffda12dbd302c67b10d3db3ecb354040ef5",
+      "bytes": 13170625
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.8.0-beta.1/UniAttendance-3.8.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.8.0-beta.1-macOS-universal.zip",
-      "sha256": "ff24f47c8934eaed817ce240554c7abce7bc947e64fb7408e83ff6d92a16ff13",
-      "bytes": 13120011
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.0-beta.1/UniAttendance-3.9.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.9.0-beta.1-macOS-universal.zip",
+      "sha256": "c3ef09319f3b303674a84093b7a9dafbd1d70782e125a832810999e871ad81d9",
+      "bytes": 13171271
     }
   }
 }
