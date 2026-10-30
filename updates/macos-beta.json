@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.9.2-beta.1",
-  "build": 63,
-  "published": "2026-10-29",
+  "version": "3.9.3-beta.1",
+  "build": 64,
+  "published": "2026-10-30",
   "notes": {
-    "it": "Ottimizzazioni di WebApp, calendario, presenze, syllabus e download. Meno ricalcoli e ridisegni; controlli automatici all’avvio e ogni ora conservati. Slide, appunti, licenze e dati personali invariati.",
-    "en": "WebApp, calendar, attendance, syllabus and download optimizations. Less redundant calculation and redrawing; launch/hourly automatic checks preserved. Downloads, notes, licenses and personal data are retained."
+    "it": "Le badgiate annullate dallo studente restano visibili in Presenze WebApp ma non influenzano il calcolo della frequenza. Archivio, correzioni manuali, slide e appunti conservati.",
+    "en": "Student-cancelled badge scans remain visible in WebApp Attendance but do not affect calculated attendance. Raw reports, manual corrections, downloads and notes are retained."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.2-beta.1/UniAttendance-3.9.2-macOS-universal.zip",
-      "filename": "UniAttendance-3.9.2-macOS-universal.zip",
-      "sha256": "a8f6d758229a4eab2d9aa599a5cf7097072241d1df90819f66f401e27a67c435",
-      "bytes": 13310439
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.3-beta.1/UniAttendance-3.9.3-macOS-universal.zip",
+      "filename": "UniAttendance-3.9.3-macOS-universal.zip",
+      "sha256": "b9022e0667e398e68aacb75e1306517a3ae104f13dcb1d96d1292a0c04415947",
+      "bytes": 13320313
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.2-beta.1/UniAttendance-3.9.2-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.9.2-beta.1-macOS-universal.zip",
-      "sha256": "888db51acf07bd55a969ae5dbcd01492d802ff62a491db93ee68cdbaadf4ea45",
-      "bytes": 13311075
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.3-beta.1/UniAttendance-3.9.3-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.9.3-beta.1-macOS-universal.zip",
+      "sha256": "f164343560a608dbb4e5b42655b35961b6e0ec590de403aaeb38bc795b3fd6da",
+      "bytes": 13320954
     }
   }
 }
