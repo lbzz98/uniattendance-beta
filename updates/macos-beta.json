@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.9.4-beta.1",
-  "build": 65,
-  "published": "2026-10-30",
+  "version": "3.9.5-beta.1",
+  "build": 66,
+  "published": "2026-11-04",
   "notes": {
-    "it": "Corretto il riconoscimento di Deleted Student e delle uscite duplicate ravvicinate dalla stessa aula. Le righe restano visibili; il calcolo mantiene la prima uscita valida. Dati personali e correzioni manuali conservati.",
-    "en": "Recognizes the portal label Deleted Student and closely repeated same-room exits. Raw rows remain visible; calculations retain the first valid exit. Personal data and manual corrections are retained."
+    "it": "Rimosso il falso avviso di connessione durante i download di Materiali Online, anche in coda.",
+    "en": "Fixed a false connection warning during Online Materials downloads, including queued downloads."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.4-beta.1/UniAttendance-3.9.4-macOS-universal.zip",
-      "filename": "UniAttendance-3.9.4-macOS-universal.zip",
-      "sha256": "51a23d59e225a2e6305536984a9137b9520375af3c5c4b7b345b94d814c43fd5",
-      "bytes": 13154777
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.5-beta.1/UniAttendance-3.9.5-macOS-universal.zip",
+      "filename": "UniAttendance-3.9.5-macOS-universal.zip",
+      "sha256": "cb4ae7942807b24cfb2147ee31fc94e7845a727314193b62c5b386d967503e5f",
+      "bytes": 13155319
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.4-beta.1/UniAttendance-3.9.4-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.9.4-beta.1-macOS-universal.zip",
-      "sha256": "f09f1c5270e38459ff6a9a0a4b3a5d30eceeae84d18432d015a9873b9eb3b536",
-      "bytes": 13155418
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.5-beta.1/UniAttendance-3.9.5-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.9.5-beta.1-macOS-universal.zip",
+      "sha256": "1dc34645aa755d2e38e721a144187125740818bc2e669173fb4de1aa87239da9",
+      "bytes": 13155953
     }
   }
 }
