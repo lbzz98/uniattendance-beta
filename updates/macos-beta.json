@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.10.0-beta.1",
-  "build": 68,
+  "version": "3.10.1-beta.1",
+  "build": 69,
   "published": "2026-11-06",
   "notes": {
-    "it": "Nuova sezione Aule libere per Roma: fasce senza eventi per edificio, filtro orario e disponibilità totale/parziale dal solo Daily di oggi. Aggiornamento automatico ogni 15 minuti e manuale, cache offline verificata. Mappa campus con tema chiaro/scuro solo su Mac. La mancanza di eventi non garantisce che l’aula sia aperta.",
-    "en": "New Rome Study rooms section: event-free intervals by building, time search and full/partial availability from today’s Daily only. Automatic 15-minute checks, manual refresh and validated offline cache. Theme-aware campus map on Mac only. No published events does not guarantee that a room is open."
+    "it": "Aule libere: rotelle ore/minuti su iOS, campi orari nativi su Mac e input rapido 8-12 / 8:00-12:00 / 8.00-12.00. Intera giornata senza filtro, edifici chiusi inizialmente, Applica apre gli elenchi. Mappa Mac aperta e cliccabile per aprire e raggiungere un edificio. Rilettura automatica mirata delle badgiate incerte dopo importazione e riconciliazione periodica dei dati salvati.",
+    "en": "Study rooms: iOS hour/minute wheels, native Mac time fields and flexible typed intervals. All-day availability with no filter; building lists start collapsed and Apply opens them. Mac map starts open and building clicks open and scroll to their rooms. Targeted automatic rechecks for uncertain badge imports and periodic reconciliation of saved days."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.10.0-beta.1/UniAttendance-3.10.0-macOS-universal.zip",
-      "filename": "UniAttendance-3.10.0-macOS-universal.zip",
-      "sha256": "573e86b397abd9bacb49044b2f23a74ab32a465f4bbf74661f5c9915aeda95cc",
-      "bytes": 13898017
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.10.1-beta.1/UniAttendance-3.10.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.10.1-macOS-universal.zip",
+      "sha256": "4578c7e834d4c15a43eb6b4bd1a25304fbe8fc834c3e74023072b1d714d9df38",
+      "bytes": 13997721
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.10.0-beta.1/UniAttendance-3.10.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.10.0-beta.1-macOS-universal.zip",
-      "sha256": "6ba9bd24caba9766c431bba1c719e66322e430af02c8bfdb97425de8f3676d08",
-      "bytes": 13898664
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.10.1-beta.1/UniAttendance-3.10.1-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.10.1-beta.1-macOS-universal.zip",
+      "sha256": "4a2fdccfa66f26294cbc0b10de69012ad5cc8a8bcd4dffc8f02f04f1039c3d74",
+      "bytes": 13998374
     }
   }
 }
