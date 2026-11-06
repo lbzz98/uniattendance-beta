@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.9.5-beta.1",
-  "build": 66,
-  "published": "2026-11-04",
+  "version": "3.9.6-beta.1",
+  "build": 67,
+  "published": "2026-11-06",
   "notes": {
-    "it": "Rimosso il falso avviso di connessione durante i download di Materiali Online, anche in coda.",
-    "en": "Fixed a false connection warning during Online Materials downloads, including queued downloads."
+    "it": "Frequenza minima obbligatoria (67%) al posto di obiettivo personale; le percentuali personalizzate restano soglie distinte. Corretti i titoli spezzati nei calendari dei sei anni, anche nei dati già salvati, conservando presenze e correzioni manuali. Colori precedenti conservati, incluso il viola di Anatomic Pathology II.",
+    "en": "Minimum compulsory attendance (67%) replaces personal goal wording; custom percentages remain separate thresholds. Repairs split course titles across all six study years, including saved calendars, while preserving attendance and manual corrections. Preserves existing course colors, including the original purple for Anatomic Pathology II."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.5-beta.1/UniAttendance-3.9.5-macOS-universal.zip",
-      "filename": "UniAttendance-3.9.5-macOS-universal.zip",
-      "sha256": "cb4ae7942807b24cfb2147ee31fc94e7845a727314193b62c5b386d967503e5f",
-      "bytes": 13155319
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.6-beta.1/UniAttendance-3.9.6-macOS-universal.zip",
+      "filename": "UniAttendance-3.9.6-macOS-universal.zip",
+      "sha256": "738e07998aad10c51105dc9a98b028522d6ba7e2a639d374feeb48a988d1f124",
+      "bytes": 13182731
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.5-beta.1/UniAttendance-3.9.5-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.9.5-beta.1-macOS-universal.zip",
-      "sha256": "1dc34645aa755d2e38e721a144187125740818bc2e669173fb4de1aa87239da9",
-      "bytes": 13155953
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.9.6-beta.1/UniAttendance-3.9.6-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.9.6-beta.1-macOS-universal.zip",
+      "sha256": "2a304c0be847805757359bcda6d8d834dc261ed28b18fe86e9b672d54d1bbb99",
+      "bytes": 13183372
     }
   }
 }
