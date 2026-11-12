@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.11.0-beta.1",
-  "build": 71,
+  "version": "3.12.0-beta.1",
+  "build": 72,
   "published": "2026-11-12",
   "notes": {
-    "it": "Medicina e Chirurgia in italiano (Roma) come corso di laurea separato. Anni 1 e 2 con calendari, syllabus di coorte, docenti, appelli e dati locali distinti. Frequenza di Microbiologia basata su 4, 4 e 2 CFU; discrepanza del syllabus segnalata in Anomalie.",
-    "en": "Adds the Italian-taught Medicine and Surgery degree in Rome as a separate programme. Years 1 and 2 have distinct timetables, cohort syllabi, lecturers, exams and local records. Microbiology attendance uses 4, 4 and 2 ECTS; the syllabus discrepancy appears in Anomalies."
+    "it": "Nursing (Infermieristica, Roma) come corso di laurea distinto, con tre annualità, calendari del primo semestre, syllabus di coorte, materiali per docente, appelli e anomalie. Soglia di frequenza del 75%.",
+    "en": "Adds BSc Nursing (Rome) as a separate degree programme with three years, first-semester timetables, cohort syllabi, lecturer materials, exam dates and anomalies. The compulsory attendance threshold is 75%."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.11.0-beta.1/UniAttendance-3.11.0-macOS-universal.zip",
-      "filename": "UniAttendance-3.11.0-macOS-universal.zip",
-      "sha256": "eebeaa8147e0b75b3134024c1ee0b05b3205e4fa3e15120ed200b0e38384dfe9",
-      "bytes": 18807568
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.12.0-beta.1/UniAttendance-3.12.0-macOS-universal.zip",
+      "filename": "UniAttendance-3.12.0-macOS-universal.zip",
+      "sha256": "4076de3bfbdb2b3f8197663abe294f58fdf7a7c16a9257fe66a08b8e06652737",
+      "bytes": 22671767
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.11.0-beta.1/UniAttendance-3.11.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.11.0-beta.1-macOS-universal.zip",
-      "sha256": "f91682dad10244a9c8cb57b6db82f7a774c53e3741281cc88cb9fc03e7edd88f",
-      "bytes": 18806401
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.12.0-beta.1/UniAttendance-3.12.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.12.0-beta.1-macOS-universal.zip",
+      "sha256": "b233329d0be3e279bd3fba0ae8e49195392851bdc447036559ec773cde43e8be",
+      "bytes": 22673336
     }
   }
 }
