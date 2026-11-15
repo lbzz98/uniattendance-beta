@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.14.1-beta.1",
-  "build": 75,
-  "published": "2026-11-15",
+  "version": "3.15.0-beta.1",
+  "build": 76,
+  "published": "2026-11-16",
   "notes": {
-    "it": "Odontoiatria (Roma): il tirocinio clinico resta visibile nel calendario. Le attività con foglio firme e i CFU di tirocinio sono esclusi dalla frequenza e dalle ore mancanti.",
-    "en": "Dentistry (Rome): clinical placements remain visible in the timetable. Signed-register sessions and clinical credits are excluded from attendance and unscheduled teaching hours."
+    "it": "Aggiunge Ostetricia, Fisioterapia, Tecniche di Radiologia e Tecniche di Laboratorio Biomedico (Roma), con calendari, syllabus, Materiali, appelli e Anomalie.",
+    "en": "Adds Midwifery, Physiotherapy, Radiology and Biomedical Laboratory Techniques (Rome), with timetables, syllabi, Materials, exams and source warnings."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.14.1-beta.1/UniAttendance-3.14.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.14.1-macOS-universal.zip",
-      "sha256": "6f8827961a16a12ef5f4e1d49d33d6ac5b606e80e45930745310249afdf1ceb1",
-      "bytes": 40021061
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.0-beta.1/UniAttendance-3.15.0-macOS-universal.zip",
+      "filename": "UniAttendance-3.15.0-macOS-universal.zip",
+      "sha256": "6585e39725bdfe7bdd9026a7d1fcb0f64d305725ad04132377d7ed9b36656a66",
+      "bytes": 50550574
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.14.1-beta.1/UniAttendance-3.14.1-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.14.1-beta.1-macOS-universal.zip",
-      "sha256": "74f454f882378a083f86feeebb9ca8985f7eb05aeeadd05fc18d6d544b39f2b4",
-      "bytes": 40023706
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.0-beta.1/UniAttendance-3.15.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.15.0-beta.1-macOS-universal.zip",
+      "sha256": "65db35fd42b177c666ad5690692f83ed9f87239dda2bcdf14f3c95d51d31acca",
+      "bytes": 50554442
     }
   }
 }
