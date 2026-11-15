@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.13.0-beta.1",
-  "build": 73,
+  "version": "3.14.0-beta.1",
+  "build": 74,
   "published": "2026-11-15",
   "notes": {
-    "it": "Igiene Dentale (Roma), primo anno coorte 2026/2027: calendario, syllabus, materiali e frequenza minima del 75%. La sezione Esami verifica la pubblicazione degli appelli ufficiali.",
-    "en": "Dental Hygiene (Rome), first year of the 2026/2027 cohort: timetable, syllabi, materials and a 75% attendance threshold. Exams checks for publication of the official schedule."
+    "it": "Odontoiatria e Protesi Dentaria (Roma): sei coorti, calendari disponibili dal primo al quinto anno, 36 syllabus, Materiali e appelli. Soglie distinte per didattica frontale (67%) e tirocinio clinico (90%).",
+    "en": "Dentistry and Dental Prosthetics (Rome): six cohorts, timetables for years one to five, 36 syllabi, Materials and exams. Separate attendance thresholds for classroom teaching (67%) and clinical placements (90%)."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.13.0-beta.1/UniAttendance-3.13.0-macOS-universal.zip",
-      "filename": "UniAttendance-3.13.0-macOS-universal.zip",
-      "sha256": "8ff04ab8398a397e2c34a0fd0142f632936c7003ba9ea8a8d57e1c84c9493e83",
-      "bytes": 26276809
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.14.0-beta.1/UniAttendance-3.14.0-macOS-universal.zip",
+      "filename": "UniAttendance-3.14.0-macOS-universal.zip",
+      "sha256": "b5d1c92edaa976462f4e59d65be8929cc0cbddbb328fea3a5b2b2029114423ca",
+      "bytes": 40014783
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.13.0-beta.1/UniAttendance-3.13.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.13.0-beta.1-macOS-universal.zip",
-      "sha256": "b0d84a418e24997894bcfb595224b020b9e922efb8205fc37f67195a5e1784f6",
-      "bytes": 26278778
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.14.0-beta.1/UniAttendance-3.14.0-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.14.0-beta.1-macOS-universal.zip",
+      "sha256": "fc19aa164600311d4783cdbd2d5d60f99179bc2383beb202733864041d62b4d0",
+      "bytes": 40017433
     }
   }
 }
