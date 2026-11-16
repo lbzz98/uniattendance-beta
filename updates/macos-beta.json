@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.15.1-beta.1",
-  "build": 77,
+  "version": "3.15.2-beta.1",
+  "build": 78,
   "published": "2026-11-16",
   "notes": {
-    "it": "Aggiunge il simulatore di assenze, il confronto con le presenze ufficiali alla stessa data e il PDF con il dettaglio delle badgiate. Mostra le finestre di prenotazione pubblicate per gli appelli di Laboratorio Biomedico.",
-    "en": "Adds an absence simulator, attendance comparison against the university report through the same date, and a PDF with badge-scan details. Shows published booking windows for Biomedical Laboratory exams."
+    "it": "Il confronto con la WebApp si apre direttamente da Frequenza e mostra solo i corsi tracciati del semestre selezionato.",
+    "en": "The WebApp comparison opens directly from Attendance and shows only courses tracked for the selected semester."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.1-beta.1/UniAttendance-3.15.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.15.1-macOS-universal.zip",
-      "sha256": "48e4824045f04f38b5a4e622b3d6751bbbd331e73656d75dca0d2e00fe142da2",
-      "bytes": 50806136
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.2-beta.1/UniAttendance-3.15.2-macOS-universal.zip",
+      "filename": "UniAttendance-3.15.2-macOS-universal.zip",
+      "sha256": "db88c5cf8bb22e626eddc93e6b6c46b011a632378e557f67bf59c68cd214e39e",
+      "bytes": 50829573
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.1-beta.1/UniAttendance-3.15.1-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.15.1-beta.1-macOS-universal.zip",
-      "sha256": "4473994b52a34b6d2f72d1c7d137c3b1b3689be3470a577d309652ab5983a892",
-      "bytes": 50810032
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.2-beta.1/UniAttendance-3.15.2-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.15.2-beta.1-macOS-universal.zip",
+      "sha256": "eade70b98e87326fb6f159d012d5a436e2e1d3e6124543ad849bb5ba3f82b4b6",
+      "bytes": 50833443
     }
   }
 }
