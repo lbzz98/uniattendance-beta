@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.15.0-beta.1",
-  "build": 76,
+  "version": "3.15.1-beta.1",
+  "build": 77,
   "published": "2026-11-16",
   "notes": {
-    "it": "Aggiunge Ostetricia, Fisioterapia, Tecniche di Radiologia e Tecniche di Laboratorio Biomedico (Roma), con calendari, syllabus, Materiali, appelli e Anomalie.",
-    "en": "Adds Midwifery, Physiotherapy, Radiology and Biomedical Laboratory Techniques (Rome), with timetables, syllabi, Materials, exams and source warnings."
+    "it": "Aggiunge il simulatore di assenze, il confronto con le presenze ufficiali alla stessa data e il PDF con il dettaglio delle badgiate. Mostra le finestre di prenotazione pubblicate per gli appelli di Laboratorio Biomedico.",
+    "en": "Adds an absence simulator, attendance comparison against the university report through the same date, and a PDF with badge-scan details. Shows published booking windows for Biomedical Laboratory exams."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.0-beta.1/UniAttendance-3.15.0-macOS-universal.zip",
-      "filename": "UniAttendance-3.15.0-macOS-universal.zip",
-      "sha256": "6585e39725bdfe7bdd9026a7d1fcb0f64d305725ad04132377d7ed9b36656a66",
-      "bytes": 50550574
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.1-beta.1/UniAttendance-3.15.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.15.1-macOS-universal.zip",
+      "sha256": "48e4824045f04f38b5a4e622b3d6751bbbd331e73656d75dca0d2e00fe142da2",
+      "bytes": 50806136
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.0-beta.1/UniAttendance-3.15.0-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.15.0-beta.1-macOS-universal.zip",
-      "sha256": "65db35fd42b177c666ad5690692f83ed9f87239dda2bcdf14f3c95d51d31acca",
-      "bytes": 50554442
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.1-beta.1/UniAttendance-3.15.1-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.15.1-beta.1-macOS-universal.zip",
+      "sha256": "4473994b52a34b6d2f72d1c7d137c3b1b3689be3470a577d309652ab5983a892",
+      "bytes": 50810032
     }
   }
 }
