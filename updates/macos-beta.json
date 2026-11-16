@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "channel": "beta",
-  "version": "3.15.2-beta.1",
-  "build": 78,
+  "version": "3.15.3-beta.1",
+  "build": 79,
   "published": "2026-11-16",
   "notes": {
-    "it": "Il confronto con la WebApp si apre direttamente da Frequenza e mostra solo i corsi tracciati del semestre selezionato.",
-    "en": "The WebApp comparison opens directly from Attendance and shows only courses tracked for the selected semester."
+    "it": "Ridisegna il simulatore e il confronto delle presenze con schede colorate. Il simulatore mostra la percentuale persa e la frequenza massima stimata.",
+    "en": "Redesigns the absence simulator and attendance comparison. The simulator shows the missed percentage and projected maximum attendance."
   },
   "downloads": {
     "macos": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.2-beta.1/UniAttendance-3.15.2-macOS-universal.zip",
-      "filename": "UniAttendance-3.15.2-macOS-universal.zip",
-      "sha256": "db88c5cf8bb22e626eddc93e6b6c46b011a632378e557f67bf59c68cd214e39e",
-      "bytes": 50829573
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.3-beta.1/UniAttendance-3.15.3-macOS-universal.zip",
+      "filename": "UniAttendance-3.15.3-macOS-universal.zip",
+      "sha256": "508e0ebf778901e61c323d7dcf410149996cd6170e939427f7210460444b30cf",
+      "bytes": 50881843
     },
     "macos-beta": {
-      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.2-beta.1/UniAttendance-3.15.2-beta.1-macOS-universal.zip",
-      "filename": "UniAttendance-3.15.2-beta.1-macOS-universal.zip",
-      "sha256": "eade70b98e87326fb6f159d012d5a436e2e1d3e6124543ad849bb5ba3f82b4b6",
-      "bytes": 50833443
+      "url": "https://github.com/lbzz98/uniattendance-beta/releases/download/v3.15.3-beta.1/UniAttendance-3.15.3-beta.1-macOS-universal.zip",
+      "filename": "UniAttendance-3.15.3-beta.1-macOS-universal.zip",
+      "sha256": "9f6963925cd66e3ea727924023a67869b6c5b7993be42dcaf71e60f9e6d3be45",
+      "bytes": 50885704
     }
   }
 }
